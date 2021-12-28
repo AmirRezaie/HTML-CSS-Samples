@@ -6,4 +6,4 @@ What Are Samples Here?
   <li> Lisbon Chair Shop: Little Store Layout</li>
 </ul>
 
-<p style="color: red;">(Update This Repository Soon...)</p>
+<h1>(Update This Repository Soon...)</h1>
