@@ -8,6 +8,7 @@ What Are Samples Here?
   <li> Lisbon Chair Shop: Little Store Layout</li>
   <li> Accordion Element </li>
   <li> Carousel (Slider) </li>
+  <li> Pagination </li>
 </ul>
 
 <h3>(Update This Repository Soon...)</h3>
