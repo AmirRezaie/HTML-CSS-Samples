@@ -1,5 +1,5 @@
 # HTML-CSS-Samples
-HTML &amp; CSS Samples That Are Use In Designs
+HTML &amp; CSS Samples That You Can Use In Your Design & Layout
 
 What Are Samples Here? 
 <ul>
